@@ -1,0 +1,10 @@
+{
+  "simulation": "simulations.TestFlow",
+  "simulationId": "testflow",
+  "start": 1658193529450,
+  "description": "Load test scenario",
+  "scenarios": ["Test Flow"],
+  "assertions": [
+
+  ]
+}
